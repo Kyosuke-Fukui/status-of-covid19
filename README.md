@@ -11,4 +11,5 @@
 ## Dependences
 * JQuery
 * Select2
+* Plotly.JS
 * api.covid19api.com
